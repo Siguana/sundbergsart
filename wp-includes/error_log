@@ -1,0 +1,18 @@
+[28-Jul-2014 06:56:56 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home3/bigigloo/public_html/sundbergsart/wp-includes/nav-menu-template.php on line 16
+[28-Jul-2014 06:56:59 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home3/bigigloo/public_html/sundbergsart/wp-includes/rss.php on line 19
+[28-Jul-2014 06:57:00 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/bigigloo/public_html/sundbergsart/wp-includes/author-template.php on line 459
+[28-Jul-2014 06:57:12 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/bigigloo/public_html/sundbergsart/wp-includes/general-template.php on line 1608
+[28-Jul-2014 06:57:45 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home3/bigigloo/public_html/sundbergsart/wp-includes/default-widgets.php on line 14
+[28-Jul-2014 06:57:48 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home3/bigigloo/public_html/sundbergsart/wp-includes/default-filters.php on line 17
+[28-Jul-2014 06:58:49 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/bigigloo/public_html/sundbergsart/wp-includes/canonical.php on line 530
+[28-Jul-2014 06:58:58 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/bigigloo/public_html/sundbergsart/wp-includes/theme.php on line 671
+[28-Jul-2014 06:59:00 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/bigigloo/public_html/sundbergsart/wp-includes/kses.php on line 1422
+[28-Jul-2014 06:59:05 America/Denver] PHP Fatal error:  Call to undefined function is_admin() in /home3/bigigloo/public_html/sundbergsart/wp-includes/vars.php on line 23
+[28-Jul-2014 06:59:11 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/bigigloo/public_html/sundbergsart/wp-includes/taxonomy.php on line 129
+[28-Jul-2014 06:59:16 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home3/bigigloo/public_html/sundbergsart/wp-includes/functions.php on line 8
+[28-Jul-2014 06:59:16 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home3/bigigloo/public_html/sundbergsart/wp-includes/functions.php on line 8
+[28-Jul-2014 06:59:16 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/bigigloo/public_html/sundbergsart/wp-includes/functions.php on line 8
+[28-Jul-2014 06:59:23 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home3/bigigloo/public_html/sundbergsart/wp-includes/shortcodes.php on line 407
+[28-Jul-2014 06:59:38 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home3/bigigloo/public_html/sundbergsart/wp-includes/script-loader.php on line 25
+[28-Jul-2014 06:59:38 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home3/bigigloo/public_html/sundbergsart/wp-includes/script-loader.php on line 25
+[28-Jul-2014 06:59:38 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/bigigloo/public_html/sundbergsart/wp-includes/script-loader.php on line 25

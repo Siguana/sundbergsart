@@ -1,0 +1,266 @@
+0000.010 (0) Opened log file at time: Thu, 18 Dec 2014 00:45:51 +0000 on http://sundbergsart.com
+0000.016 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.44 WP: 4.0.1 PHP: 5.4.34 (Linux box835.bluehost.com 3.12.32.1415814620 #1 SMP Wed Nov 12 11:53:28 CST 2014 x86_64) MySQL: 5.5.40-36.1-log Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.6M | 36.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.224 (0) Free space on disk containing Updraft's temporary directory: 1352537.9 Mb
+0000.228 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.234 (0) Requesting semaphore lock (fd)
+0000.235 (0) Set semaphore last lock (fd) time to 2014-12-18 00:45:51
+0000.236 (0) Semaphore lock (fd) complete
+0000.241 (0) Backup run: resumption=0, nonce=21a4372b5592, begun at=1418863551 (0s ago), job type=backup
+0000.245 (0) Scheduling a resumption (1) after 300 seconds (1418863851) in case this run gets aborted
+0000.257 (0) Checking if we have a zip executable available
+0000.260 (0) Testing: /usr/bin/zip
+0000.272 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.274 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.275 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.275 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=127) (out=105) (deflated 17%)
+0000.276 (0) Output: total bytes=127, compressed=105 -> 17% savings
+0000.289 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=134) (out=109) (deflated 19%)
+0000.290 (0) Output: total bytes=261, compressed=214 -> 18% savings
+0000.301 (0) Working binary zip found: /usr/bin/zip
+0000.303 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.304 (0) Creation of backups of directories: beginning
+0000.306 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0001.346 (0) Total entities for the zip file: 216 directories, 1479 files (0 skipped as non-modified), 21.6 Mb
+0001.351 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0001.355 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0001.359 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0001.363 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0001.368 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0001.369 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.9 Mb, 1479 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0002.963 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: size is now: 3.60 Mb
+0002.979 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 600 files added (on-disk size: 3654.5 Kb)
+0002.984 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 700 files added (on-disk size: 3654.5 Kb)
+0002.988 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 800 files added (on-disk size: 3654.5 Kb)
+0002.992 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 900 files added (on-disk size: 3654.5 Kb)
+0002.997 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 1000 files added (on-disk size: 3654.5 Kb)
+0002.998 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 Mb, 1479 files batched, 501 (1002) added so far); re-opening (prior size: 3654.5 Kb)
+0005.811 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: size is now: 5.70 Mb
+0005.830 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 1100 files added (on-disk size: 5872.5 Kb)
+0005.840 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 1200 files added (on-disk size: 5872.5 Kb)
+0005.875 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 1300 files added (on-disk size: 5872.5 Kb)
+0005.906 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: 1400 files added (on-disk size: 5872.5 Kb)
+0007.179 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip.tmp: size is now: 7.00 Mb
+0007.262 (0) Created plugins zip (0) - 7211 Kb in 6.7 s (1068.6 Kb/s) (SHA1 checksum: d025f1f962317b503db1646c7368446736e824ca)
+0007.265 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0008.508 (0) Total entities for the zip file: 194 directories, 1214 files (0 skipped as non-modified), 16.9 Mb
+0008.524 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0008.529 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0008.534 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0008.538 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0008.553 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0008.554 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.6 Mb, 1214 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0011.341 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: size is now: 2.00 Mb
+0011.365 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 600 files added (on-disk size: 2041.8 Kb)
+0011.379 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 700 files added (on-disk size: 2041.8 Kb)
+0011.394 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 800 files added (on-disk size: 2041.8 Kb)
+0011.405 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 900 files added (on-disk size: 2041.8 Kb)
+0011.412 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 1000 files added (on-disk size: 2041.8 Kb)
+0011.417 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.1 Mb, 1214 files batched, 501 (1002) added so far); re-opening (prior size: 2041.8 Kb)
+0013.924 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: size is now: 8.50 Mb
+0013.933 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 1100 files added (on-disk size: 8693.4 Kb)
+0013.937 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: 1200 files added (on-disk size: 8693.4 Kb)
+0014.611 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip.tmp: size is now: 10.90 Mb
+0014.729 (0) Created themes zip (0) - 11184.9 Kb in 6.7 s (1680.7 Kb/s) (SHA1 checksum: 3f5bf40964cc4ca0b4a1f29a3105249738298185)
+0014.735 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0014.736 (0) Looking for candidates to back up in: /home3/bigigloo/public_html/sundbergsart/wp-content/uploads
+0014.737 (0) finding files: layerslider: adding to list (1)
+0014.751 (0) finding files: 2012: adding to list (2)
+0014.754 (0) finding files: revslider: adding to list (3)
+0014.755 (0) finding files: woocommerce_uploads: adding to list (4)
+0014.759 (0) finding files: 2014: adding to list (5)
+0014.760 (0) finding files: 2013: adding to list (6)
+0014.761 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0015.380 (0) Total entities for the zip file: 22 directories, 3714 files (0 skipped as non-modified), 110.8 Mb
+0015.384 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0015.388 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0015.392 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0015.395 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 Mb added on this batch (25 Mb, 3714 files batched, 355 (355) added so far); re-opening (prior size: 0 Kb)
+0018.647 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: size is now: 19.80 Mb
+0018.652 (0) A useful amount of data was added after this amount of zip processing: 4 s (normalised: 4 s, rate: 6465.5 Kb/s)
+0018.655 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.9598050117493, normalised_time=3.9594583718505, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=39724221)
+0018.660 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 400 files added (on-disk size: 20290.5 Kb)
+0018.664 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 500 files added (on-disk size: 20290.5 Kb)
+0018.670 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 600 files added (on-disk size: 20290.5 Kb)
+0018.676 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 700 files added (on-disk size: 20290.5 Kb)
+0018.681 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 800 files added (on-disk size: 20290.5 Kb)
+0018.687 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.9 Mb, 3714 files batched, 501 (856) added so far); re-opening (prior size: 20290.5 Kb)
+0022.606 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: size is now: 31.90 Mb
+0022.612 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 900 files added (on-disk size: 32680.2 Kb)
+0022.615 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 1000 files added (on-disk size: 32680.2 Kb)
+0022.618 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 1100 files added (on-disk size: 32680.2 Kb)
+0022.621 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 1200 files added (on-disk size: 32680.2 Kb)
+0022.624 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 1300 files added (on-disk size: 32680.2 Kb)
+0022.626 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.7 Mb, 3714 files batched, 501 (1357) added so far); re-opening (prior size: 32680.2 Kb)
+0025.677 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: size is now: 43.80 Mb
+0025.686 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 1400 files added (on-disk size: 44881.4 Kb)
+0025.691 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 1500 files added (on-disk size: 44881.4 Kb)
+0025.695 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 1600 files added (on-disk size: 44881.4 Kb)
+0025.700 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 1700 files added (on-disk size: 44881.4 Kb)
+0025.705 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 1800 files added (on-disk size: 44881.4 Kb)
+0025.708 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 Mb, 3714 files batched, 501 (1858) added so far); re-opening (prior size: 44881.4 Kb)
+0028.784 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: size is now: 55.80 Mb
+0028.790 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 1900 files added (on-disk size: 57120.1 Kb)
+0028.793 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 2000 files added (on-disk size: 57120.1 Kb)
+0028.796 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 2100 files added (on-disk size: 57120.1 Kb)
+0028.799 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 2200 files added (on-disk size: 57120.1 Kb)
+0028.803 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 2300 files added (on-disk size: 57120.1 Kb)
+0028.806 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.1 Mb, 3714 files batched, 501 (2359) added so far); re-opening (prior size: 57120.1 Kb)
+0031.528 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 2400 files added (on-disk size: 67697.9 Kb)
+0031.531 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 2500 files added (on-disk size: 67697.9 Kb)
+0031.534 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 2600 files added (on-disk size: 67697.9 Kb)
+0031.537 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 2700 files added (on-disk size: 67697.9 Kb)
+0031.540 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 2800 files added (on-disk size: 67697.9 Kb)
+0031.543 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (19 Mb, 3714 files batched, 501 (2860) added so far); re-opening (prior size: 67697.9 Kb)
+0033.717 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: size is now: 84.70 Mb
+0033.723 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 2900 files added (on-disk size: 86779.6 Kb)
+0033.726 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 3000 files added (on-disk size: 86779.6 Kb)
+0033.729 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 3100 files added (on-disk size: 86779.6 Kb)
+0033.732 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 3200 files added (on-disk size: 86779.6 Kb)
+0033.735 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 3300 files added (on-disk size: 86779.6 Kb)
+0033.738 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.8 Mb, 3714 files batched, 501 (3361) added so far); re-opening (prior size: 86779.6 Kb)
+0036.213 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 3400 files added (on-disk size: 93333 Kb)
+0036.216 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 3500 files added (on-disk size: 93333 Kb)
+0036.219 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 3600 files added (on-disk size: 93333 Kb)
+0036.223 (0) Zip: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip.tmp: 3700 files added (on-disk size: 93333 Kb)
+0040.140 (0) Created uploads zip (0) - 103822.5 Kb in 25.1 s (4140.2 Kb/s) (SHA1 checksum: f7a620196cbe91e134773e4aa184dfd9bc210e13)
+0040.142 (0) Beginning backup of other directories found in the content directory (index: 0)
+0040.144 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0040.145 (0) Looking for candidates to back up in: /home3/bigigloo/public_html/sundbergsart/wp-content
+0040.146 (0) finding files: themes: skipping: this is the themes directory
+0040.146 (0) finding files: index.php: adding to list (1)
+0040.147 (0) finding files: upgrade: skipping: excluded by options
+0040.148 (0) finding files: plugins: skipping: this is the plugins directory
+0040.148 (0) finding files: uploads: skipping: this is the uploads directory
+0040.149 (0) finding files: languages: adding to list (2)
+0040.150 (0) finding files: updraft: skipping: this is the updraft directory
+0040.368 (0) Total entities for the zip file: 2 directories, 11 files (0 skipped as non-modified), 1.2 Mb
+0040.543 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-others.zip.tmp: size is now: 0.40 Mb
+0040.550 (0) Created others zip (0) - 384.4 Kb in 0.2 s (2080.6 Kb/s) (SHA1 checksum: ddb49fd8a90e394d442240dd43ab8eb77491ebe8)
+0040.554 (0) Saving backup status to database (elements: 8)
+0040.557 (0) Beginning creation of database dump (WordPress DB)
+0040.559 (0) Testing: /usr/bin/mysqldump
+0040.586 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0040.593 (0) Table wp_options: Total expected rows (approximate): 988
+0040.710 (0) Table wp_options: Total rows added: 987 in 0.12 seconds
+0040.716 (0) Table wp_options: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_options.table.gz - 166.2 Kb)
+0040.722 (0) Table wp_users: Total expected rows (approximate): 2
+0040.725 (0) Table wp_users: Total rows added: 2 in 0.00 seconds
+0040.726 (0) Table wp_users: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_users.table.gz - 0.6 Kb)
+0040.729 (0) Table wp_usermeta: Total expected rows (approximate): 48
+0040.732 (0) Table wp_usermeta: Total rows added: 48 in 0.00 seconds
+0040.734 (0) Table wp_usermeta: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_usermeta.table.gz - 2 Kb)
+0040.737 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0040.739 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0040.739 (0) Table wp_commentmeta: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_commentmeta.table.gz - 0.3 Kb)
+0040.742 (0) Table wp_comments: Total expected rows (approximate): 0
+0040.744 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0040.745 (0) Table wp_comments: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_comments.table.gz - 0.5 Kb)
+0040.751 (0) Table wp_links: Total expected rows (approximate): 0
+0040.754 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0040.756 (0) Table wp_links: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_links.table.gz - 0.4 Kb)
+0040.759 (0) Table wp_postmeta: Total expected rows (approximate): 25445
+0040.917 (0) Table wp_postmeta: binary mysqldump finished (writes: 33) in 0.16 seconds
+0040.921 (0) Table wp_postmeta: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_postmeta.table.gz - 190.3 Kb)
+0040.927 (0) Table wp_posts: Total expected rows (approximate): 1527
+0041.540 (0) Table wp_posts: Total rows added: 1527 in 0.61 seconds
+0041.543 (0) Table wp_posts: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_posts.table.gz - 803.4 Kb)
+0041.546 (0) Table wp_term_relationships: Total expected rows (approximate): 782
+0041.560 (0) Table wp_term_relationships: Total rows added: 782 in 0.01 seconds
+0041.561 (0) Table wp_term_relationships: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_term_relationships.table.gz - 2.5 Kb)
+0041.564 (0) Table wp_term_taxonomy: Total expected rows (approximate): 110
+0041.569 (0) Table wp_term_taxonomy: Total rows added: 110 in 0.00 seconds
+0041.569 (0) Table wp_term_taxonomy: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_term_taxonomy.table.gz - 1.2 Kb)
+0041.572 (0) Table wp_terms: Total expected rows (approximate): 103
+0041.576 (0) Table wp_terms: Total rows added: 103 in 0.00 seconds
+0041.577 (0) Table wp_terms: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_terms.table.gz - 1.7 Kb)
+0041.581 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0041.584 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0041.586 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.3 Kb)
+0041.591 (0) Table wp_woocommerce_termmeta: Total expected rows (approximate): 116
+0041.596 (0) Table wp_woocommerce_termmeta: Total rows added: 116 in 0.00 seconds
+0041.597 (0) Table wp_woocommerce_termmeta: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_termmeta.table.gz - 1 Kb)
+0041.601 (0) Table wp_layerslider: Total expected rows (approximate): 2
+0041.605 (0) Table wp_layerslider: Total rows added: 2 in 0.00 seconds
+0041.606 (0) Table wp_layerslider: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_layerslider.table.gz - 2.5 Kb)
+0041.611 (0) Table wp_revslider_css: Total expected rows (approximate): 60
+0041.615 (0) Table wp_revslider_css: Total rows added: 60 in 0.00 seconds
+0041.616 (0) Table wp_revslider_css: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_revslider_css.table.gz - 2 Kb)
+0041.620 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0041.622 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0041.623 (0) Table wp_revslider_layer_animations: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_revslider_layer_animations.table.gz - 0.3 Kb)
+0041.627 (0) Table wp_revslider_settings: Total expected rows (approximate): 0
+0041.629 (0) Table wp_revslider_settings: Total rows added: 0 in 0.00 seconds
+0041.630 (0) Table wp_revslider_settings: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_revslider_settings.table.gz - 0.3 Kb)
+0041.637 (0) Table wp_revslider_sliders: Total expected rows (approximate): 3
+0041.640 (0) Table wp_revslider_sliders: Total rows added: 3 in 0.00 seconds
+0041.641 (0) Table wp_revslider_sliders: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_revslider_sliders.table.gz - 1.6 Kb)
+0041.647 (0) Table wp_revslider_slides: Total expected rows (approximate): 7
+0041.652 (0) Table wp_revslider_slides: Total rows added: 7 in 0.00 seconds
+0041.653 (0) Table wp_revslider_slides: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_revslider_slides.table.gz - 2.7 Kb)
+0041.660 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 1
+0041.663 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 1 in 0.00 seconds
+0041.664 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 Kb)
+0041.669 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0041.671 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0041.672 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.4 Kb)
+0041.677 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0041.679 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0041.681 (0) Table wp_woocommerce_order_items: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_order_items.table.gz - 0.3 Kb)
+0041.686 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0041.688 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0041.688 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.3 Kb)
+0041.694 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0041.696 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0041.698 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 Kb)
+0041.700 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_options.table.gz (1/24): adding to final database dump
+0041.761 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_users.table.gz (2/24): adding to final database dump
+0041.763 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_usermeta.table.gz (3/24): adding to final database dump
+0041.764 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_commentmeta.table.gz (4/24): adding to final database dump
+0041.765 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_comments.table.gz (5/24): adding to final database dump
+0041.766 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_links.table.gz (6/24): adding to final database dump
+0041.768 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_postmeta.table.gz (7/24): adding to final database dump
+0041.867 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_posts.table.gz (8/24): adding to final database dump
+0042.258 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_term_relationships.table.gz (9/24): adding to final database dump
+0042.263 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_term_taxonomy.table.gz (10/24): adding to final database dump
+0042.265 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_terms.table.gz (11/24): adding to final database dump
+0042.267 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_order_itemmeta.table.gz (12/24): adding to final database dump
+0042.267 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_termmeta.table.gz (13/24): adding to final database dump
+0042.269 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_layerslider.table.gz (14/24): adding to final database dump
+0042.271 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_revslider_css.table.gz (15/24): adding to final database dump
+0042.272 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_revslider_layer_animations.table.gz (16/24): adding to final database dump
+0042.273 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_revslider_settings.table.gz (17/24): adding to final database dump
+0042.274 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_revslider_sliders.table.gz (18/24): adding to final database dump
+0042.275 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_revslider_slides.table.gz (19/24): adding to final database dump
+0042.277 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_attribute_taxonomies.table.gz (20/24): adding to final database dump
+0042.279 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (21/24): adding to final database dump
+0042.280 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_order_items.table.gz (22/24): adding to final database dump
+0042.281 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_tax_rate_locations.table.gz (23/24): adding to final database dump
+0042.282 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db-table-wp_woocommerce_tax_rates.table.gz (24/24): adding to final database dump
+0042.283 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db.gz: finished writing out complete database file (1152 Kb)
+0042.297 (0) Total database tables backed up: 24 (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db.gz, size: 1204487, checksum (SHA1): ed7f9ca6b54707825ea6795e4932498c03545ec5)
+0042.298 (0) Saving backup history
+0042.301 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0042.302 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0042.303 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0042.303 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-others.zip: others: This file has not yet been successfully uploaded: will queue
+0042.304 (0) backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db.gz: db: This file has not yet been successfully uploaded: will queue
+0042.305 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0042.308 (0) Cloud backup selection: none
+0042.308 (0) No remote despatch: user chose no remote backup service
+0042.310 (0) Recording as successfully uploaded: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-plugins.zip (c70301c3759cfd545e89b36d216c381e)
+0042.313 (0) Recording as successfully uploaded: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-themes.zip (b715fb31e5e5140a99bd29246c902f9f)
+0042.316 (0) Recording as successfully uploaded: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-uploads.zip (608ba95a6ede42d7f0259890835bd9f7)
+0042.321 (0) Recording as successfully uploaded: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-others.zip (fad0350bd364992acb9248a8e9cc52d0)
+0042.324 (0) Recording as successfully uploaded: backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db.gz (d4ce3fc0f5309d01ad31d0fc0b449a35)
+0042.328 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0042.329 (0) Number of backup sets in history: 1
+0042.330 (0) Examining backup set with datestamp: 1418863551 (Dec 18 2014 00:45:51)
+0042.330 (0) 1418863551: db: this set includes a database (backup_2014-12-18-0845_Chinese_art_for_sale_21a4372b5592-db.gz); db count is now 1
+0042.332 (0) 1418863551: this backup set remains non-empty (1/1); will retain in history
+0042.332 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0042.333 (0) Resume backup (21a4372b5592, 0): finish run
+0042.339 (0) Decremented the semaphore (fd) by 1
+0042.340 (0) Semaphore (fd) unlocked
+0042.340 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0042.343 (0) No email will/can be sent - the user has not configured an email address.
+0042.344 (0) The backup apparently succeeded and is now complete
